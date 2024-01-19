@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-clic/static/css/main.ce66d13f.css",
+    "main.js": "/react-app-clic/static/js/main.126fb453.js",
+    "index.html": "/react-app-clic/index.html",
+    "main.ce66d13f.css.map": "/react-app-clic/static/css/main.ce66d13f.css.map",
+    "main.126fb453.js.map": "/react-app-clic/static/js/main.126fb453.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce66d13f.css",
+    "static/js/main.126fb453.js"
+  ]
+}
